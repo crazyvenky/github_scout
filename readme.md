@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/github-trending-scout/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/github-trending-scout/discussions)
-- **Email**: your.email@example.com
+- **Email**: [MAIL ME](venkatesh5082931@gmail.com)
 
 ## 🗺️ Roadmap
 
